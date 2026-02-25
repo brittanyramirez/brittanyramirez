@@ -5,7 +5,7 @@
 
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=26&duration=2800&pause=1000&color=FF69B4&center=true&vCenter=true&width=760&lines=Hi%2C+I%27m+Brittany+Ramirez+%F0%9F%92%97;Coding+Apprentice+%7C+Full-Stack+Developer;Always+building.+Always+improving.+%F0%9F%9A%80;Proud+Mom+%F0%9F%92%95+%7C+Swimmer+%F0%9F%8F%8A%F0%9F%8F%BD%E2%80%8D%E2%99%80%EF%B8%8F+%7C+Soccer+%E2%9A%BD" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=26&duration=2800&pause=1000&color=FF69B4&center=true&vCenter=true&width=760&lines=Hi%2C+I%27m+Brittany+Ramirez+%F0%9F%92%97;Coding+Apprentice+%7C;Always+building.+Always+improving.+%F0%9F%9A%80;Proud+Mom+%F0%9F%92%95+%7C+Swimmer+%F0%9F%8F%8A%F0%9F%8F%BD%E2%80%8D%E2%99%80%EF%B8%8F+%7C+Soccer+%E2%9A%BD" />
 </p>
 
 
@@ -65,20 +65,5 @@ My personal portfolio showcasing projects, design style, and growth.
 
 - 🔗 Live: https://main.d3o8qnjoikgs6m.amplifyapp.com/
 
-### 🎮 Connect 4 (optional)
-If you build + deploy it, add the link here:
-- 🔗 Live: https://your-connect4-link.com
-
----
-
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=brittanyramirez&show_icons=true&theme=radical&hide_border=true" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=brittanyramirez&layout=compact&theme=radical&hide_border=true" height="160" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=brittanyramirez&theme=radical&hide_border=true" height="160" />
-</p>
 
 ⭐ Thanks for visiting my profile!
